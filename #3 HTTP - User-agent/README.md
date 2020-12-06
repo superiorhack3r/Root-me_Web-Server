@@ -10,4 +10,5 @@ Connection: close
 Upgrade-Insecure-Requests: admin
 
 Cách 2
+
 curl -A 'admin' http://challenge01.root-me.org/web-serveur/ch2/
