@@ -1,4 +1,5 @@
 Cách 1: Dùng Burp Suite
+
 GET /web-serveur/ch2/ HTTP/1.1
 Host: challenge01.root-me.org
 User-Agent: admin 
