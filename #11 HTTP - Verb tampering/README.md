@@ -1,4 +1,4 @@
->PUT /web-serveur/ch8/ HTTP/1.1
+PUT /web-serveur/ch8/ HTTP/1.1
 Host: challenge01.root-me.org
 Cache-Control: max-age=0
 Authorization: Basic YWRtaW46YWRtaW4=
