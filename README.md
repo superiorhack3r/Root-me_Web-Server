@@ -29,3 +29,18 @@ http://challenge01.root-me.org/web-serveur/ch15/
 
 #10 HTTP - Improper redirect
 http://challenge01.root-me.org/web-serveur/ch22/
+
+#11 HTTP - Verb tampering
+http://challenge01.root-me.org/web-serveur/ch8/
+
+#12 Install files
+http://challenge01.root-me.org/web-serveur/ch6/
+
+#13 CRLF
+http://challenge01.root-me.org/web-serveur/ch14/
+
+#14 File upload - Double extensions
+http://challenge01.root-me.org/web-serveur/ch20/
+
+#15 File upload - MIME type
+http://challenge01.root-me.org/web-serveur/ch21/
