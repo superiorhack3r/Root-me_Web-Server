@@ -44,3 +44,18 @@ http://challenge01.root-me.org/web-serveur/ch20/
 
 #15 File upload - MIME type
 http://challenge01.root-me.org/web-serveur/ch21/
+
+#16 HTTP - Cookies
+http://challenge01.root-me.org/web-serveur/ch7/
+
+#17 Insecure Code Management
+http://challenge01.root-me.org/web-serveur/ch61/
+
+#18 JSON Web Token (JWT) - Introduction
+http://challenge01.root-me.org/web-serveur/ch59/
+
+#19 Directory traversal
+http://challenge01.root-me.org/web-serveur/ch15/ch15.php
+
+#20 File upload - Null byte
+http://challenge01.root-me.org/web-serveur/ch22/
