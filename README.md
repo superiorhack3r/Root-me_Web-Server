@@ -59,3 +59,18 @@ http://challenge01.root-me.org/web-serveur/ch15/ch15.php
 
 #20 File upload - Null byte
 http://challenge01.root-me.org/web-serveur/ch22/
+
+#21 JSON Web Token (JWT) - Weak secret
+http://challenge01.root-me.org/web-serveur/ch59/
+
+#22 JWT - Revoked token
+http://challenge01.root-me.org/web-serveur/ch63/
+
+#23 PHP - assert()
+http://challenge01.root-me.org/web-serveur/ch47/
+
+#24 PHP - Filters
+http://challenge01.root-me.org/web-serveur/ch12/
+
+#25 PHP - register globals
+http://challenge01.root-me.org/web-serveur/ch17/
