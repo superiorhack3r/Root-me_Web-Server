@@ -9,7 +9,7 @@ def guess_password(token, min = 1, max = 5):
     for passwd_len in range(min, max):
         for passwd in product(CHARS, repeat=passwd_len):
             passwd = ''.join(passwd)
-            encoded = jwt.encode({"role":"guest"}, passwd, algorithm='HS512')
+            encoded = jwt.encode({"role":"admin"}, passwd, algorithm='HS512')
             if (encoded == token) :
                 return passwd
 
